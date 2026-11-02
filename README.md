@@ -158,3 +158,8 @@ It provides practical experience with Python, HTTP requests, web security header
 This tool is intended for educational purposes and authorized security assessments only.
 
 Only analyze websites that you own or have explicit permission to assess.
+## Screenshot
+
+The following screenshot shows the tool running in Kali Linux.
+
+![Web Security Header Analyzer](analyzer-output-cropped.png)
